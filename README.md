@@ -5,6 +5,8 @@ This project served to solidify my basic [HTML](https://developer.mozilla.org/pt
 specifically the use of boilerplate, elements and tags, lists, as well as links and images. It also served to 
 practice basic [Git](https://git-scm.com/) commands.
 
+Click here for the [Live Preview](https://xsabatox.github.io/odin-recipes).
+
 ## Tools I Have Used
 
 [![My Tools](https://skillicons.dev/icons?i=html,git,github,vscode)](https://skillicons.dev)
